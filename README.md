@@ -25,7 +25,6 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s0me1code/s0me1code/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s0me1code/s0me1code/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/s0me1code/s0me1code/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/s0me1code/s0me1code/output/github-snake.gif" />
   </picture>
 </p>
