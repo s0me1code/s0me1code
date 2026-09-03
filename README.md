@@ -22,12 +22,15 @@
 - **dashboards & templates** — TypeScript starters I reuse instead of starting from zero
 - **ERP / HR** — payroll, salary slips, and reports on the Odoo / ERPNext side
 
-### senior project — Safe Distance
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s0me1code&theme=github_dark" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=s0me1code&theme=github_dark" alt="Most commit language" />
+</p>
 
-AR + machine vision to estimate how far a person is from the camera, then warn when that distance is too small.
-
-| repo | what it is |
-| --- | --- |
-| [safeDistanceProject](https://github.com/s0me1code/safeDistanceProject) | theory, UML, measurement math — the hub |
-| [safeDitanceAndroid](https://github.com/s0me1code/safeDitanceAndroid) | Android (ML Kit + CameraX) |
-| [safeDistacneFlask](https://github.com/s0me1code/safeDistacneFlask) | web (Flask + MoveNet / OpenCV) |
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s0me1code/s0me1code/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s0me1code/s0me1code/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/s0me1code/s0me1code/output/github-snake.svg" />
+  </picture>
+</p>
