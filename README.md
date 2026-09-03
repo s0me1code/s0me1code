@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  Full-stack builder on Arch. I ship web apps, ERP tools, and 3D/360 experiences —
-  and I keep a Neovim + Hyprland setup that I actually use every day.
+  Full-stack builder on Arch. I ship web apps, ERP tools, and 3D/360 experiences.
 </p>
 
 <p align="center">
