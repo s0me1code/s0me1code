@@ -23,11 +23,6 @@
 - **ERP / HR** — payroll, salary slips, and reports on the Odoo / ERPNext side
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s0me1code&theme=github_dark" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=s0me1code&theme=github_dark" alt="Most commit language" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s0me1code/s0me1code/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s0me1code/s0me1code/output/github-snake.svg" />
