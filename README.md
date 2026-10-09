@@ -12,18 +12,18 @@
 
 ### projects
 
-**startups**
+**startup attempts**
 
-- **XRD360** — co-founded Bahrain real estate marketplace app · [Play Store](https://play.google.com/store/apps/details?id=com.xrd360.realestate)
-- **Skn سكن** — property management SaaS for GCC landlords · [live](https://skn-nine.vercel.app/)
+- **XRD360** — Bahrain real estate marketplace app · [Play Store](https://play.google.com/store/apps/details?id=com.xrd360.realestate)
+- **Skn سكن** — property management SaaS for GCC landlords (this is the prototype that led to XRD360) · [live](https://skn-nine.vercel.app/)
 
 **3D / web**
 
-- **Surge Drum** — process control simulation game (R3F + Firebase leaderboard) · [live](https://surge-drum-game.vercel.app) · [repo](https://github.com/s0me1code/surge-drum-game)
+- **Surge Drum** — process control simulation game (R3F + Firebase leaderboard), it was for some Bapco Event · [live](https://surge-drum-game.vercel.app) · [repo](https://github.com/s0me1code/surge-drum-game)
 - **Hand Gesture Ball Game** — webcam-controlled 3D obstacle course (MediaPipe + Rapier) · [live](https://cam-game.vercel.app/) · [repo](https://github.com/s0me1code/game-with-r3f)
 - **Art Mixer** — neural style transfer inside a 3D gallery · [live](https://art-mixer.vercel.app/) · [repo](https://github.com/s0me1code/ArtMixer)
 
-**ERP (ERPNext)**
+**ERP (I only had the chance to work on ERPNext and Odoo)**
 
 - **Payroll Wizard** — React payroll preparation wizard · [repo](https://github.com/s0me1code/payroll-inst)
 - **Rider Salary Slips** — ERPNext slips sent via WhatsApp + Next.js rider portal · [live](https://salary-slips-ka.vercel.app/) · [repo](https://github.com/s0me1code/rider_salary_slips)
