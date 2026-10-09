@@ -1,9 +1,9 @@
 <p align="center">
-  <em>Linux rice, TypeScript apps, and a camera that knows how far you are.</em>
+  <em>Startups, ERP systems, and 3D on the web.</em>
 </p>
 
 <p align="center">
-  Full-stack builder on Arch. I ship web apps, ERP tools, and 3D/360 experiences.
+  Full-stack developer in Bahrain and co-founder of XRD360. I take products from requirements to shipped — web, mobile, and ERPNext.
 </p>
 
 <p align="center">
@@ -13,12 +13,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
 </p>
-
-### now
-
-- **360 / spatial web** — panorama viewers and product work around XR / Photo Sphere
-- **dashboards & templates** — TypeScript starters I reuse instead of starting from zero
-- **ERP / HR** — payroll, salary slips, and reports on the Odoo / ERPNext side
 
 ### projects
 
