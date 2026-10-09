@@ -1,9 +1,5 @@
 <p align="center">
-  <em>Startups, ERP systems, and 3D on the web.</em>
-</p>
-
-<p align="center">
-  Full-stack developer in Bahrain and co-founder of XRD360. I take products from requirements to shipped — web, mobile, and ERPNext.
+  <em>I enjoy the idea of ERP, and usually I build something around it... ya and sometime things with three.js</em>
 </p>
 
 <p align="center">
