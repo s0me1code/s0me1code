@@ -1,5 +1,5 @@
 <p align="center">
-  <em>I enjoy the idea of ERP, and usually I build something around it... ya and sometime things with three.js</em>
+  <em>I enjoy the idea of ERP, and usually I build something around it... ya and sometimes things with three.js</em>
 </p>
 
 <p align="center">
