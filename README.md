@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
 </p>
 
-### projects
-
 **startup attempts**
 
 - **XRD360** — Bahrain real estate marketplace app · [Play Store](https://play.google.com/store/apps/details?id=com.xrd360.realestate)
